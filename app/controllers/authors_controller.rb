@@ -28,7 +28,7 @@ class AuthorsController < ApplicationController
     else
       render :edit
     end
-author
+
 
   private
 
